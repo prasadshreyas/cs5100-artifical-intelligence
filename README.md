@@ -5,9 +5,9 @@
 * A First Course in Artificial Intelligence, Deepak Kehmani
 
 
-| HW      | Project                      |
-|---------|------------------------------|
-| 1 - PA1 | Search - Pacman              |
-| 1 - PA2 | Continuum Vacuum World Agent |
-|         |                              |
-|         |                              |
+| HW      | Project                                                                                 |
+|---------|-----------------------------------------------------------------------------------------|
+| 1 - PA1 | [Search - Pacman](https://github.com/prasadshreyas/pacman-search.git)                   |
+| 1 - PA2 | [Continuum Vacuum World Agent](https://github.com/prasadshreyas/vacuum-world-agent.git) |
+|         |                                                                                         |
+|         |                                                                                         |
