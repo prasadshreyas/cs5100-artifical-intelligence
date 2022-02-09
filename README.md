@@ -7,7 +7,7 @@
 
 | HW      | Project                                                                                 |
 |---------|-----------------------------------------------------------------------------------------|
-| 1 - PA1 | [Search - Pacman](https://github.com/prasadshreyas/pacman-search.git)                   |
+| 1 - PA1 | [Search - Pacman](https://github.com/prasadshreyas/PacmanSearch.git)                   |
 | 1 - PA2 | [Continuum Vacuum World Agent](https://github.com/prasadshreyas/vacuum-world-agent.git) |
 |         |                                                                                         |
 |         |                                                                                         |
