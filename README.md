@@ -11,5 +11,5 @@
 | 1 - PA2 | [Continuum Vacuum World Agent](https://github.com/prasadshreyas/Continuum-Vacuum-World-Agent.git) |
 | 2 - PA1 | [Genetic Algorithm]()                                     |
 | 3 - PA1 | [Othello](https://github.com/prasadshreyas/Othello)                                                                                        |
-| 3 - PA2 |                                                                                         |
-| 4 - PA1 |                                                                                         |
+| 3 - PA2 |  [Hill Climbing]                                                                                       |
+| 4 - PA1 |  [Forward Planning]                                                                                       |
