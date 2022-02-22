@@ -11,6 +11,6 @@
 | 1 - PA2 | [Continuum Vacuum World Agent](https://github.com/prasadshreyas/Continuum-Vacuum-World-Agent.git) |
 | 2 - PA1 | [Genetic Algorithm]()                                     |
 | 3 - PA1 | [Othello](https://github.com/prasadshreyas/Othello)                                                                                        |
-| 3 - PA2 |  [Hill Climbing]()                                                                                       |
-| 4 - PA1 |  [Forward Planning]()                                                                                       |
-| 4 - PA1 |  [Constraint Satisfaction Problem - Map Coloring]()                                                                                       |
+| 4 - PA1 |  [Hill Climbing]()                                                                                       |
+| 5 - PA1 |  [Forward Planning]()                                                                                       |
+| 5 - PA2 |  [Constraint Satisfaction Problem - Map Coloring]()                                                                                       |
